@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="drawer_width">320dp</dimen>
+    <dimen name="breakpoint_drawer">840dp</dimen>
+    <dimen name="breakpoint_two_columns">720dp</dimen>
+    <dimen name="recommendation_image_height">184dp</dimen>
+    <dimen name="detail_image_height">240dp</dimen>
+    <dimen name="text_body">16sp</dimen>
+    <dimen name="text_card_title">20sp</dimen>
+    <dimen name="text_section_title">24sp</dimen>
+    <dimen name="text_hero_title">28sp</dimen>
+</resources>
